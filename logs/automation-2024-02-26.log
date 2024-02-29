@@ -1,0 +1,48 @@
+11:44:15.700 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:44:15.714 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:44:15.716 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+11:44:15.717 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+11:44:15.718 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet6.xml'
+11:44:15.764 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:44:15.767 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:44:15.888 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:44:15.892 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:44:15.896 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:44:15.898 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:44:15.904 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:44:15.905 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:44:15.907 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+11:44:15.909 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:44:15.915 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:44:15.916 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:44:15.917 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+11:44:15.918 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+11:44:15.920 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet6.xml'
+11:44:15.923 [main] INFO  Step_Definitions.Stteps - The Model,Expected price and Expected Launch Date has been printed in Excel ☑️
+11:44:17.284 [main] INFO  Step_Definitions.Stteps - Chrome Window has been opened ☑️
+11:44:26.993 [main] INFO  Step_Definitions.Stteps - Website ZigWheels has been navigated successfully ☑️
+11:44:34.543 [main] INFO  Step_Definitions.Stteps - Click the icon called 'Used Cars' in ZigWheels site ☑️
+11:44:35.447 [main] INFO  Step_Definitions.Stteps - Select the icon called 'Used Cars In Chennai' ☑️
+11:45:20.466 [main] INFO  Step_Definitions.Stteps - Get all the datas of popular models Used in Chennai ☑️
+11:45:39.872 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:45:39.876 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:45:39.976 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:45:39.979 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:45:39.982 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:45:39.982 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:45:39.987 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:45:39.988 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:45:39.989 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/theme/theme1.xml'
+11:45:39.990 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:45:39.994 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:45:39.995 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:45:39.996 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+11:45:39.997 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet4.xml'
+11:45:39.998 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet6.xml'
+11:45:40.000 [main] INFO  Step_Definitions.Stteps - Popular models could printed in Excel sheet ☑️
+11:45:40.000 [main] INFO  Step_Definitions.Stteps - Entire project has been successfully completed ☑️
+11:45:41.348 [main] INFO  Step_Definitions.Stteps - Chrome Window has been opened ☑️
+11:45:49.521 [main] INFO  Step_Definitions.Stteps - Website ZigWheels has been navigated successfully ☑️
+11:45:55.006 [main] INFO  Step_Definitions.Stteps - Click the icon called 'Login/signup' in ZigWheels site ☑️
+11:45:56.471 [main] INFO  Step_Definitions.Stteps - Click the google sign in button for authentication ☑️
+11:49:40.727 [main] INFO  testCases.TC_001_HondaBrands - Chrome browser opened successfully

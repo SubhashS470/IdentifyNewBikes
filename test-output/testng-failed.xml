@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testCases.TC_001_HondaBrands"/>
+      <class name="testCases.TC_002_AllBikesValidation"/>
+      <class name="testCases.TC_003_UpcomingBikes"/>
+      <class name="testCases.TC_004_InValidLoginCheckingDetails"/>
+      <class name="testCases.TC_005_CarsInChennai"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T11:30:09Z" name="Suite" finished-at="2024-02-28T11:35:55Z" duration-ms="346406">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T11:30:09Z" name="Test" finished-at="2024-02-28T11:35:55Z" duration-ms="346406">
+      <class name="testCases.TC_003_UpcomingBikes">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:04:36Z" name="setup" finished-at="2024-02-28T17:05:26Z" duration-ms="50001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HondaManufacturer()[pri:1, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:05:26Z" name="HondaManufacturer" finished-at="2024-02-28T17:05:32Z" duration-ms="5994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaManufacturer -->
+        <test-method signature="HondaEncode2()[pri:2, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:05:32Z" name="HondaEncode2" finished-at="2024-02-28T17:05:40Z" duration-ms="8186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaEncode2 -->
+        <test-method signature="TC_03_extractHondaBikes()[pri:3, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:05:40Z" name="TC_03_extractHondaBikes" finished-at="2024-02-28T17:05:49Z" duration-ms="9347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_extractHondaBikes -->
+        <test-method is-config="true" signature="captureScreen()[pri:0, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:05:49Z" name="captureScreen" finished-at="2024-02-28T17:05:50Z" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="terminateWholeBrowser()[pri:0, instance:testCases.TC_003_UpcomingBikes@1fc32e4f]" started-at="2024-02-28T17:05:50Z" name="terminateWholeBrowser" finished-at="2024-02-28T17:05:55Z" duration-ms="5274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateWholeBrowser -->
+      </class> <!-- testCases.TC_003_UpcomingBikes -->
+      <class name="testCases.TC_002_AllBikesValidation">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_002_AllBikesValidation@4716be8b]" started-at="2024-02-28T17:01:09Z" name="setup" finished-at="2024-02-28T17:01:46Z" duration-ms="37827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HondaUnder4Lakhs()[pri:0, instance:testCases.TC_002_AllBikesValidation@4716be8b]" started-at="2024-02-28T17:01:46Z" name="HondaUnder4Lakhs" finished-at="2024-02-28T17:02:17Z" duration-ms="30476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HondaUnder4Lakhs -->
+        <test-method is-config="true" signature="captureScreen()[pri:0, instance:testCases.TC_002_AllBikesValidation@4716be8b]" started-at="2024-02-28T17:02:17Z" name="captureScreen" finished-at="2024-02-28T17:02:17Z" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="terminateWholeBrowser()[pri:0, instance:testCases.TC_002_AllBikesValidation@4716be8b]" started-at="2024-02-28T17:02:17Z" name="terminateWholeBrowser" finished-at="2024-02-28T17:02:22Z" duration-ms="4958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateWholeBrowser -->
+      </class> <!-- testCases.TC_002_AllBikesValidation -->
+      <class name="testCases.TC_001_HondaBrands">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_001_HondaBrands@146dfe6]" started-at="2024-02-28T17:00:09Z" name="setup" finished-at="2024-02-28T17:00:53Z" duration-ms="43740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="SelectingAllBikes()[pri:0, instance:testCases.TC_001_HondaBrands@146dfe6]" started-at="2024-02-28T17:00:53Z" name="SelectingAllBikes" finished-at="2024-02-28T17:01:04Z" duration-ms="11331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectingAllBikes -->
+        <test-method is-config="true" signature="captureScreen()[pri:0, instance:testCases.TC_001_HondaBrands@146dfe6]" started-at="2024-02-28T17:01:05Z" name="captureScreen" finished-at="2024-02-28T17:01:05Z" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="terminateWholeBrowser()[pri:0, instance:testCases.TC_001_HondaBrands@146dfe6]" started-at="2024-02-28T17:01:05Z" name="terminateWholeBrowser" finished-at="2024-02-28T17:01:09Z" duration-ms="3832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateWholeBrowser -->
+      </class> <!-- testCases.TC_001_HondaBrands -->
+      <class name="testCases.TC_005_CarsInChennai">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_005_CarsInChennai@1869fbd2]" started-at="2024-02-28T17:03:18Z" name="setup" finished-at="2024-02-28T17:04:03Z" duration-ms="45146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="usedcars()[pri:0, instance:testCases.TC_005_CarsInChennai@1869fbd2]" started-at="2024-02-28T17:04:03Z" name="usedcars" finished-at="2024-02-28T17:04:30Z" duration-ms="27175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usedcars -->
+        <test-method is-config="true" signature="captureScreen()[pri:0, instance:testCases.TC_005_CarsInChennai@1869fbd2]" started-at="2024-02-28T17:04:30Z" name="captureScreen" finished-at="2024-02-28T17:04:31Z" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="terminateWholeBrowser()[pri:0, instance:testCases.TC_005_CarsInChennai@1869fbd2]" started-at="2024-02-28T17:04:31Z" name="terminateWholeBrowser" finished-at="2024-02-28T17:04:36Z" duration-ms="4584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateWholeBrowser -->
+      </class> <!-- testCases.TC_005_CarsInChennai -->
+      <class name="testCases.TC_004_InValidLoginCheckingDetails">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC_004_InValidLoginCheckingDetails@2f67b837]" started-at="2024-02-28T17:02:22Z" name="setup" finished-at="2024-02-28T17:03:03Z" duration-ms="40627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidLogin()[pri:0, instance:testCases.TC_004_InValidLoginCheckingDetails@2f67b837]" started-at="2024-02-28T17:03:03Z" name="InvalidLogin" finished-at="2024-02-28T17:03:13Z" duration-ms="10216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="captureScreen()[pri:0, instance:testCases.TC_004_InValidLoginCheckingDetails@2f67b837]" started-at="2024-02-28T17:03:13Z" name="captureScreen" finished-at="2024-02-28T17:03:13Z" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureScreen -->
+        <test-method is-config="true" signature="terminateWholeBrowser()[pri:0, instance:testCases.TC_004_InValidLoginCheckingDetails@2f67b837]" started-at="2024-02-28T17:03:13Z" name="terminateWholeBrowser" finished-at="2024-02-28T17:03:18Z" duration-ms="4664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateWholeBrowser -->
+      </class> <!-- testCases.TC_004_InValidLoginCheckingDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
